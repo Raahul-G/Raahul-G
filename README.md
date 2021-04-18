@@ -1,6 +1,6 @@
-### Hi there, Raahul Gupta 👋
-
-## I'm a final year engineering student 🎓
+## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<h1 align="center">Hi 👋, I'm Raahul Gupta</h1>
+<h3 align="center">I'm an AI enthusiast 🤖<h3>
 
 - 🤖 Artificial Intelligence enthusiast 
 - 🎯 Pursuing Tensorflow Developer Certificate 🧾
