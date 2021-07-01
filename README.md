@@ -1,8 +1,8 @@
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <h1 align="center">Hi 👋, I'm Raahul Gupta</h1>
 
+- 🎯 Certified TensorFlow Developer
 - 🤖 Artificial Intelligence enthusiast 
-- 🎯 Pursuing Tensorflow Developer Certificate 🧾
 - 🧠 Interested in building Deep Learning models
 - 🦾 Co-Founder of  [***Friday Vision***](https://github.com/FridayVision)
 
