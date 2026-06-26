@@ -37,7 +37,7 @@ I am passionate about bridging the gap between cutting-edge research and product
 * **Systems Engineering:** Developed an asynchronous **FastAPI** backend integrated with **SQLAlchemy 2.0** over a 13-table database schema; implemented secure JWT rotation and strict **Pydantic V2** data validation rules.
 * **Tech Stack:** `Python` `LangGraph` `FastAPI` `SQLAlchemy 2.0` `Pydantic V2` `PostgreSQL` `JWT`
 
-📥 **[View Codebase](https://github.com/graahul/mastermind)** | 
+📥 **[View Codebase](https://github.com/Raahul-G/MasterMindAI)** 
 
 ---
 
@@ -48,7 +48,7 @@ I am passionate about bridging the gap between cutting-edge research and product
 * **Full-Stack Automation:** Engineered a responsive **FastAPI** platform featuring a custom citation-to-image export module. This automated the generation of visually clean presentation-ready assets directly from highlighted document segments, entirely eliminating manual screenshotting workflows.
 * **Tech Stack:** `Local LLM` `ChromaDB` `FastAPI` `Python` `Re-ranking` `Document Parsing` `Docker`
 
-📥 **[View Codebase](https://github.com/graahul/mastermind)** | 
+📥 **[View Codebase](https://github.com/Raahul-G/Document-RAG)** 
 
 ---
 
@@ -60,7 +60,7 @@ I am passionate about bridging the gap between cutting-edge research and product
 * **Production Engineering:** Leveraged **Zustand** for state management, **Sentry** for real-time user-scoped telemetry, and **TanStack Query** for aggressive, cache-first data fetching. Shipped the final production Android package (AAB) using EAS Build.
 * **Tech Stack:** `React Native` `Expo Router` `Supabase` `PostgreSQL` `Row-Level Security` `Zustand` `TanStack Query` `Sentry`
 
-📥 **[View Codebase](https://github.com/graahul/iou-app)** | 🤖 **[Google Play Store Link](https://play.google.com/store)**
+📥 **[View Codebase](https://github.com/Raahul-G/iou)** | 🤖 **[Google Play Store Link] - CLosed Testing **
 
 ---
 
