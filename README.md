@@ -66,7 +66,7 @@ I am passionate about bridging the gap between cutting-edge research and product
 
 ### 🛠️ Tech Stack & Expertise
 
-<table>
+<table> 
   <tr>
     <td width="50%" valign="top">
       <h4>🧠 Machine Learning & CV</h4>
@@ -103,15 +103,6 @@ I am passionate about bridging the gap between cutting-edge research and product
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=graahul&show_icons=true&theme=transparent&title_color=4F46E5&icon_color=4F46E5&text_color=71717A" alt="Raahul's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graahul&layout=compact&theme=transparent&title_color=4F46E5&text_color=71717A" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
