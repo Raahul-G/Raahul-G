@@ -106,14 +106,4 @@ I am passionate about bridging the gap between cutting-edge research and product
 
 ---
 
-### 📕 Latest Medium Publications
-
-We automatically pull my latest tech writing from Medium using GitHub Actions:
-
-<!-- BLOG-POST-LIST:START -->
-*Stay tuned! My latest articles are synchronizing soon.*
-<!-- BLOG-POST-LIST:END -->
-
----
-
 *“There is a one percent chance, and sometimes that chance is good enough.”* — Virat Kohli 
