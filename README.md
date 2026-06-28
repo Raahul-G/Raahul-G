@@ -37,7 +37,7 @@ I am passionate about bridging the gap between cutting-edge research and product
 * **Systems Engineering:** Developed an asynchronous **FastAPI** backend integrated with **SQLAlchemy 2.0** over a 13-table database schema; implemented secure JWT rotation and strict **Pydantic V2** data validation rules.
 * **Tech Stack:** `Python` `LangGraph` `FastAPI` `SQLAlchemy 2.0` `Pydantic V2` `PostgreSQL` `JWT`
 
-📥 **[View Codebase](https://github.com/Raahul-G/MasterMindAI)** 
+📥 **[View Codebase](https://github.com/Raahul-G/MasterMindAI)** | 📝 **[Blog](https://medium.com/@raahulgupta/we-say-i-owe-you-then-we-forget-so-i-built-an-app-e9579b98f074?sharedUserId=raahulgupta)**
 
 ---
 
@@ -60,7 +60,7 @@ I am passionate about bridging the gap between cutting-edge research and product
 * **Production Engineering:** Leveraged **Zustand** for state management, **Sentry** for real-time user-scoped telemetry, and **TanStack Query** for aggressive, cache-first data fetching. Shipped the final production Android package (AAB) using EAS Build.
 * **Tech Stack:** `React Native` `Expo Router` `Supabase` `PostgreSQL` `Row-Level Security` `Zustand` `TanStack Query` `Sentry`
 
-📥 **[View Codebase](https://github.com/Raahul-G/iou)** | 🤖 **[Google Play Store Link] - CLosed Testing **
+📥 **[View Codebase](https://github.com/Raahul-G/iou)** | 🤖 [Google Play Store Link] - CLosed Testing 
 
 ---
 
